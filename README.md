@@ -1,2 +1,2 @@
-# springboard-coursework
+# Springboard
 Coursework for Springboard classes.
